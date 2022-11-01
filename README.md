@@ -1,6 +1,4 @@
 # testweb
-
-# testweb
 Spring Legacy Project.
 
 ### 이력
