@@ -10,6 +10,6 @@ Spring Legacy Project.
 + Login 구현 4 - Interceptor
 
 # Oracle DB Squima
-+Table: COM_USER
-+col1 : ID (varchar)
-+col2 : PW (varchar)
++ Table: COM_USER
++ col1 : ID (varchar)
++ col2 : PW (varchar)
